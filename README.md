@@ -1,2 +1,51 @@
-# QA-Portfolio
-Collection of bug reports from mobile app testing
+# QA Portfolio - Bug Reports
+
+Welcome to my QA testing portfolio! This repository contains bug reports I've discovered during testing various mobile applications.
+
+## 📋 About
+
+This portfolio demonstrates my skills in:
+- Mobile app testing (Android)
+- Bug identification and documentation
+- Security testing
+- Creating detailed bug reports
+
+## 🐛 Bug Reports
+
+| ID | Application | Title | Severity | Type | Status |
+|---|---|---|---|---|---|
+| [BUG-001](./bug-reports/BUG-001-OTP-bypass-individual.md) | Gigmedia | OTP Verification Bypass - Individual Account | High | Security | Open |
+| [BUG-002](./bug-reports/BUG-002-OTP-bypass-company.md) | Gigmedia | OTP Verification Bypass - Company Account | High | Security | Open |
+
+## 📊 Statistics
+
+- **Total Bugs Found:** 2
+- **Critical/High Severity:** 2
+- **Medium Severity:** 0
+- **Low Severity:** 0
+
+## 🔍 Applications Tested
+
+- **Gigmedia** (v2.5) - Android app from Play Market
+
+## 🛠️ Tools & Skills
+
+- Android Testing
+- Security Testing
+- Bug Tracking & Documentation
+- Test Case Design
+- Regression Testing
+- Manual Testing
+
+## 📱 Testing Environment
+
+- Platform: Android 13
+- Device: iHunt Titan Music P11000 PRO
+
+## 📫 Contact
+
+- Email: nasibilforsovod@gmail.com
+
+---
+
+Last updated: January 18, 2026
