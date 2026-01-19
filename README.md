@@ -16,12 +16,12 @@ This portfolio demonstrates my skills in:
 |---|---|---|---|---|---|
 | [BUG-001](./bug-reports/BUG-001-OTP-bypass-individual.md) | Gigmedia | OTP Verification Bypass - Individual Account | High | Security | Open |
 | [BUG-002](./bug-reports/BUG-002-OTP-bypass-company.md) | Gigmedia | OTP Verification Bypass - Company Account | High | Security | Open |
-| [BUG-003](./bug-reports/BUG-003-app-reload-on-language-change.md) | Свободний | App Reload on Language Change | Low | UX/Performance | Open |
+| [BUG-003](./bug-reports/BUG-003-app-reload-on-language-change.md) | Свободний | App Reload on Language Change | Low | UX/Performance | Open || [BUG-004](bug-reports/BUG-004-network-error-handling.md) | Flow app | Poor Network Error Handling on Login | High |
 
 ## 📊 Statistics
 
-- **Total Bugs Found:** 3
-- **Critical/High Severity:** 2
+- **Total Bugs Found:** 4
+- **Critical/High Severity:** 3
 - **Medium Severity:** 0
 - **Low Severity:** 1
 
@@ -29,6 +29,7 @@ This portfolio demonstrates my skills in:
 
 - **Gigmedia** (v2.5) - Android app from Play Market
 - **Свободний** (v4.5.2) - Android app from Play Market
+- **Flow app** (v1.1.9) - Android app from Play Market
 
 ## 🛠️ Tools & Skills
 
