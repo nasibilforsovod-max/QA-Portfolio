@@ -19,12 +19,13 @@ This portfolio demonstrates my skills in:
 | [BUG-003](./bug-reports/BUG-003-app-reload-on-language-change.md) | Свободний | App Reload on Language Change | Low | UX/Performance | Open |
 | [BUG-004](bug-reports/BUG-004-network-error-handling.md) | Flow app | Poor Network Error Handling on Login | High |
 | [BUG-005](bug-reports/BUG-005-carousel-error-flicker.md) | Відео Живі Шпалери 4К | Flickering Error Message on Fast Carousel Scroll | Medium |
+| [BUG-006](bug-reports/BUG-006-misleading-internet-toggle.md) | ALPA Ukrainian educative games | Misleading Internet Toggle Behavior in Settings | Medium |
 
 ## 📊 Statistics
 
-- **Total Bugs Found:** 5
+- **Total Bugs Found:** 6
 - **Critical/High Severity:** 3
-- **Medium Severity:** 1
+- **Medium Severity:** 2
 - **Low Severity:** 1
 
 ## 🔍 Applications Tested
@@ -33,6 +34,7 @@ This portfolio demonstrates my skills in:
 - **Свободний** (v4.5.2) - Android app from Play Market
 - **Flow app** (v1.1.9) - Android app from Play Market
 - **Відео Живі Шпалери 4К** (v2.30) - Android app from Play Market
+- **ALPA Ukrainian educative games** (v3.0.9) - Android app from Play Market 
 
 ## 🛠️ Tools & Skills
 
